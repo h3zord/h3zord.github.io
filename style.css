@@ -68,18 +68,26 @@
       #img01 {
         position: relative;
         width: 100px;
-        left: 44%;
+        left: 39%;
 
       }
 
       #img02 {
         position: absolute;
         width: 160px;
-        left: 50%;
+        left: 56%;
       }
 
-      #img00 {
-        
+      #img03 {
+        position: relative;
+        width: 65px;
+        left: 43%;
+        bottom: 30px;        
       }
 
-
+      #img04 {
+        position: relative;
+        width: 100px;
+        left: 38%;
+        bottom: 4px;
+      }
